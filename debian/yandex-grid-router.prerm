@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -e
+
+#check if file exist and is a symlink
+if [ -h /etc/init.d/yandex-grid-router ]; then
+	rm -f /etc/init.d/yandex-grid-router
+fi

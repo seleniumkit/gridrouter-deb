@@ -1,0 +1,60 @@
+#!/bin/sh
+# postinst script for yandex-grid-router
+#
+# see: dh_installdeb(1)
+
+set -e
+
+# summary of how this script can be called:
+#        * <postinst> `configure' <most-recently-configured-version>
+#        * <old-postinst> `abort-upgrade' <new version>
+#        * <conflictor's-postinst> `abort-remove' `in-favour' <package>
+#          <new-version>
+#        * <postinst> `abort-remove'
+#        * <deconfigured's-postinst> `abort-deconfigure' `in-favour'
+#          <failed-install-package> <version> `removing'
+#          <conflicting-package> <version>
+# for details, see http://www.debian.org/doc/debian-policy/ or
+# the debian-policy package
+
+#DEBHELPER#
+
+case "$1" in
+    configure|upgrade)
+
+        # Create user if it doesn't exist.
+        if ! id grid > /dev/null 2>&1 ; then
+            adduser --system --no-create-home --disabled-password --disabled-login --group --home /var/run/grid grid
+        fi
+
+        # check exist log dir
+        if [ -d /var/log/grid-router ]; then
+            chown -R grid:adm /var/log/grid-router
+        fi
+
+        # check exist pid dir
+        if [ -d /var/run/grid-router ]; then
+            chown -R grid:adm /var/run/grid-router
+        fi
+
+        if [ -r /etc/grid-router/users.properties ]; then
+            chmod 600 /etc/grid-router/users.properties
+            chown grid /etc/grid-router/users.properties
+        fi
+
+        # create symlink for upstart autocomplete 
+        if [ -e /lib/init/upstart-job ]; then
+        	ln -s /lib/init/upstart-job /etc/init.d/yandex-grid-router
+        fi
+    ;;
+
+    abort-upgrade|abort-remove|abort-deconfigure)
+    ;;
+
+    *)
+        echo "postinst called with unknown argument \`$1'" >&2
+        exit 1
+    ;;
+esac
+
+exit 0

@@ -1,0 +1,33 @@
+<qa:browsers xmlns:qa="urn:config.gridrouter.qatools.ru">
+    <browser name="firefox" defaultVersion="33.0">
+        <version number="33.0">
+            <region name="us-west">
+                <host name="my-firefox33-host-1.example.com" port="4444" count="5"/>
+            </region>
+            <region name="us-east">
+                <host name="my-firefox33-host-2.example.com" port="4444" count="5"/>
+            </region>
+        </version>
+        <version number="38.0">
+            <region name="us-west">
+                <host name="my-firefox38-host-1.example.com" port="4444" count="4"/>
+                <host name="my-firefox38-host-2.example.com" port="4444" count="4"/>
+            </region>
+            <region name="us-east">
+                <host name="my-firefox38-host-3.example.com" port="4444" count="4"/>
+            </region>
+        </version>
+    </browser>
+    <browser name="chrome" defaultVersion="42.0">
+        <version number="42.0">
+            <region name="us-west">
+                <host name="my-chrome42-host-1.example.com" port="4444" count="1"/>
+            </region>
+            <region name="us-east">
+                <host name="my-chrome42-host-2.example.com" port="4444" count="4"/>
+                <host name="my-chrome42-host-3.example.com" port="4444" count="3"/>
+            </region>
+        </version>
+    </browser>
+</qa:browsers>
+

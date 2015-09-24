@@ -1,0 +1,2 @@
+conf/example/*.xml etc/grid-router/quota
+conf/users.properties etc/grid-router

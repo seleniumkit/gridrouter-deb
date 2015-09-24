@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Configure PUBLIC "-//Jetty//Configure//EN" "http://www.eclipse.org/jetty/configure_9_0.dtd">
+
+<Configure id="Server" class="org.eclipse.jetty.server.Server">
+   <Call name="addBean">
+        <Arg>
+            <New class="org.eclipse.jetty.security.HashLoginService">
+                <Set name="name">Selenium Grid Router</Set>
+                <Set name="config">/etc/grid-router/users.properties</Set>
+                <Set name="hotReload">true</Set>
+            </New>
+        </Arg>
+    </Call>
+</Configure>

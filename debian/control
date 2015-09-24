@@ -1,0 +1,19 @@
+Source: yandex-grid-router
+Section: misc
+Priority: extra
+Maintainer: Ivan Krutov <vania-pooh@yandex-team.ru>
+Standards-Version: 3.9.2
+Build-Depends: cdbs, debhelper (>= 7.0.50~)
+Vcs-Git: git://github.com:seleniumkit/gridrouter.git
+
+Package: yandex-grid-router
+Architecture: all
+Depends: java8-jdk | java8-runtime | java8-runtime-headless | java8-sdk | sun-java8-jdk, yandex-grid-router-config 
+Description: Selenium Grid Session Router
+
+Package: yandex-grid-router-quota-example
+Architecture: all
+Provides: yandex-grid-router-config
+Conflicts: yandex-grid-router-config
+Replaces: yandex-grid-router-config
+Description: Config for yandex-grid-router with example Selenium grid contents

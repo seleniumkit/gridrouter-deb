@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# yandex-grid-router
+
+description "yandex-grid-router"
+
+start on runlevel [2345]
+stop on runlevel [06]
+
+limit nofile 4096 4096
+setuid grid
+
+script
+    GC_OPTS="-XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:+CMSParallelRemarkEnabled"
+    MEMORY_OPTS="-XX:MaxPermSize=512m -Xms512m -Xmx2048m"
+
+    JAVA_ARGS="$GC_OPTS $MEMORY_OPTS -Djava.net.preferIPv6Addresses=true"
+
+    java $JAVA_ARGS -jar /usr/share/grid-router/jetty-runner.jar --classes /etc/grid-router --port 4444 --config /etc/grid-router/jetty.xml /usr/share/grid-router/grid-router-deb.war >> /var/log/grid-router/grid-router.log 2>&1
+end script

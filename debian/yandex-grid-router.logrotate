@@ -1,0 +1,20 @@
+/var/log/grid-router/grid-router.log {
+        daily
+        missingok
+        rotate 7
+        compress
+        delaycompress
+        create 644 grid adm
+        sharedscripts
+        copytruncate
+}
+/var/log/grid-router/grid-router-gc.log {
+        daily
+        missingok
+        rotate 7
+        compress
+        delaycompress
+        create 644 grid adm
+        sharedscripts
+        copytruncate
+}

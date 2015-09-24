@@ -1,0 +1,1075 @@
+yandex-grid-router (1.20-3) trusty; urgency=low
+
+  * Prepared for Launchpad
+
+ -- Ivan Krutov <vania-pooh@yandex-team.ru>  Tue, 22 Sep 2015 09:46:51 +0000
+
+yandex-grid-router (1.20) unstable; urgency=medium
+
+  * gridrouter_flow 1.20 (release built with Jenkins job gridrouter-
+    deb_flow(http://jenkins.qatools.yandex-team.ru/job/gridrouter-
+    deb_flow/), build #16)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 22 Sep 2015 09:10:51 +0000
+
+yandex-grid-router (1.20-SNAPSHOT-10) unstable; urgency=medium
+
+  * gridrouter_flow 1.20-SNAPSHOT (snapshot built with Jenkins job
+    gridrouter-deb_flow(http://jenkins.qatools.yandex-
+    team.ru/job/gridrouter-deb_flow/), build #15)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 16 Sep 2015 10:29:48 +0000
+
+yandex-grid-router (1.20-SNAPSHOT-9) unstable; urgency=medium
+
+  * gridrouter_flow 1.20-SNAPSHOT (snapshot built with Jenkins job
+    gridrouter-deb_flow(http://jenkins.qatools.yandex-
+    team.ru/job/gridrouter-deb_flow/), build #14)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 16 Sep 2015 09:30:18 +0000
+
+yandex-grid-router (1.20-SNAPSHOT-8) unstable; urgency=medium
+
+  * gridrouter 1.20-SNAPSHOT (snapshot built with Jenkins job
+    gridrouter-deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-
+    deb/), build #13)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 14 Sep 2015 20:52:37 +0000
+
+yandex-grid-router (1.20-SNAPSHOT-7) unstable; urgency=medium
+
+  * gridrouter 1.20-SNAPSHOT (snapshot built with Jenkins job
+    gridrouter-deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-
+    deb/), build #12)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 14 Sep 2015 20:37:39 +0000
+
+yandex-grid-router (1.20-SNAPSHOT-6) unstable; urgency=medium
+
+  * gridrouter 1.20-SNAPSHOT (snapshot built with Jenkins job
+    gridrouter-deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-
+    deb/), build #11)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 14 Sep 2015 20:11:57 +0000
+
+yandex-grid-router (1.20-SNAPSHOT-5) unstable; urgency=medium
+
+  * gridrouter 1.20-SNAPSHOT (snapshot built with Jenkins job
+    gridrouter-deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-
+    deb/), build #10)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 14 Sep 2015 20:06:48 +0000
+
+yandex-grid-router (1.20-SNAPSHOT-4) unstable; urgency=medium
+
+  * gridrouter 1.20-SNAPSHOT (snapshot built with Jenkins job
+    gridrouter-deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-
+    deb/), build #9)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 14 Sep 2015 10:19:30 +0000
+
+yandex-grid-router (1.20-SNAPSHOT-3) unstable; urgency=medium
+
+  * gridrouter 1.20-SNAPSHOT (snapshot built with Jenkins job
+    gridrouter-deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-
+    deb/), build #8)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 11 Sep 2015 11:56:41 +0000
+
+yandex-grid-router (1.20-SNAPSHOT-2) unstable; urgency=medium
+
+  * gridrouter 1.20-SNAPSHOT (snapshot built with Jenkins job
+    gridrouter-deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-
+    deb/), build #7)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 11 Sep 2015 11:26:12 +0000
+
+yandex-grid-router (1.20-SNAPSHOT-1) unstable; urgency=medium
+
+  * gridrouter 1.20-SNAPSHOT (snapshot built with Jenkins job
+    gridrouter-deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-
+    deb/), build #6)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 10 Sep 2015 14:37:23 +0000
+
+yandex-grid-router (1.19) unstable; urgency=medium
+
+  * gridrouter 1.19 (release built with Jenkins job gridrouter-
+    deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-deb/),
+    build #5)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 03 Sep 2015 15:10:24 +0000
+
+yandex-grid-router (1.19-SNAPSHOT-1) unstable; urgency=medium
+
+  * gridrouter 1.19-SNAPSHOT (snapshot built with Jenkins job
+    gridrouter-deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-
+    deb/), build #4)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 03 Sep 2015 13:29:34 +0000
+
+yandex-grid-router (1.18) unstable; urgency=medium
+
+  * gridrouter 1.18 (release built with Jenkins job gridrouter-
+    deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-deb/),
+    build #3)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 02 Sep 2015 11:08:12 +0000
+
+yandex-grid-router (1.17-1) unstable; urgency=medium
+
+  * gridrouter 1.17-1 (release built with Jenkins job gridrouter-
+    deb(http://jenkins.qatools.yandex-team.ru/job/gridrouter-deb/),
+    build #1)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 28 Aug 2015 07:39:44 +0000
+
+yandex-grid-router (1.18-SNAPSHOT-2) unstable; urgency=medium
+
+  * grid-router 1.18-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #132)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 27 Aug 2015 15:56:46 +0000
+
+yandex-grid-router (1.18-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.18-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #131)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 26 Aug 2015 09:08:34 +0000
+
+yandex-grid-router (1.17) unstable; urgency=medium
+
+  * grid-router 1.17-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #129)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 25 Aug 2015 07:39:55 +0000
+
+yandex-grid-router (1.17-SNAPSHOT-2) unstable; urgency=medium
+
+  * grid-router 1.17-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #128)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 24 Aug 2015 16:25:05 +0000
+
+yandex-grid-router (1.17-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.17-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #127)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 21 Aug 2015 15:55:56 +0000
+
+yandex-grid-router (1.16) unstable; urgency=medium
+
+  * grid-router 1.16 (release built with Jenkins job grid-router-
+    deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-deb/),
+    build #126)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 19 Aug 2015 11:09:04 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-21) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #125)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 13 Aug 2015 11:28:27 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-20) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #124)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 12 Aug 2015 15:14:28 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-19) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #123)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 12 Aug 2015 12:18:16 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-18) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #122)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 07 Aug 2015 15:00:16 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-17) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #121)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 07 Aug 2015 14:26:29 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-16) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #120)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 03 Aug 2015 16:56:10 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-15) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #119)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 03 Aug 2015 13:02:14 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-14) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #118)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 31 Jul 2015 17:02:25 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-13) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #117)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 31 Jul 2015 16:25:25 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-12) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #116)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 31 Jul 2015 13:42:56 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-11) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #115)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 29 Jul 2015 10:27:45 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-10) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #114)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 28 Jul 2015 18:37:45 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-9) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #112)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 28 Jul 2015 15:35:56 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-8) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #111)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 27 Jul 2015 18:06:56 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-7) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #110)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 27 Jul 2015 16:17:56 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-6) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #109)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 27 Jul 2015 14:26:26 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-5) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #107)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 27 Jul 2015 11:28:15 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-4) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #106)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 24 Jul 2015 11:22:15 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-3) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #105)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 24 Jul 2015 11:01:56 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-2) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #104)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 24 Jul 2015 09:27:46 +0000
+
+yandex-grid-router (1.16-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.16-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #103)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 23 Jul 2015 16:46:06 +0000
+
+yandex-grid-router (1.15-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.15-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #100)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 22 Jul 2015 07:33:48 +0000
+
+yandex-grid-router (1.15) unstable; urgency=medium
+
+  * grid-router 1.15-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #99)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 17 Jul 2015 15:43:21 +0000
+
+yandex-grid-router (1.14-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.14-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #98)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 17 Jul 2015 15:31:30 +0000
+
+yandex-grid-router (1.14) unstable; urgency=medium
+
+  * grid-router 1.14-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #97)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 17 Jul 2015 13:47:31 +0000
+
+yandex-grid-router (1.13-SNAPSHOT-4) unstable; urgency=medium
+
+  * grid-router 1.13-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #96)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 17 Jul 2015 13:39:52 +0000
+
+yandex-grid-router (1.13-SNAPSHOT-3) unstable; urgency=medium
+
+  * grid-router 1.13-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #95)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 17 Jul 2015 13:16:31 +0000
+
+yandex-grid-router (1.13-SNAPSHOT-2) unstable; urgency=medium
+
+  * grid-router 1.13-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #94)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 17 Jul 2015 13:06:23 +0000
+
+yandex-grid-router (1.13-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.13-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #93)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 17 Jul 2015 13:03:50 +0000
+
+yandex-grid-router (1.13) unstable; urgency=medium
+
+  * grid-router 1.13-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #92)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 17 Jul 2015 12:00:01 +0000
+
+yandex-grid-router (1.12) unstable; urgency=medium
+
+  * grid-router 1.12-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #91)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 17 Jul 2015 10:47:51 +0000
+
+yandex-grid-router (1.11-SNAPSHOT-2) unstable; urgency=medium
+
+  * grid-router 1.11-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #90)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 15 Jul 2015 11:53:32 +0000
+
+yandex-grid-router (1.11-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.11-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #89)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 13 Jul 2015 15:31:30 +0000
+
+yandex-grid-router (1.11) unstable; urgency=medium
+
+  * grid-router 1.11-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #86)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 10 Jul 2015 11:51:56 +0000
+
+yandex-grid-router (1.10-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.10-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #85)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 09 Jul 2015 14:01:06 +0000
+
+yandex-grid-router (1.10) unstable; urgency=medium
+
+  * grid-router 1.10-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #84)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 06 Jul 2015 16:34:59 +0000
+
+yandex-grid-router (1.9) unstable; urgency=medium
+
+  * grid-router 1.9-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #83)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 02 Jul 2015 07:05:08 +0000
+
+yandex-grid-router (1.8-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.8-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #82)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 01 Jul 2015 15:14:27 +0000
+
+yandex-grid-router (1.8) unstable; urgency=medium
+
+  * grid-router 1.8-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #79)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 26 Jun 2015 13:52:21 +0000
+
+yandex-grid-router (1.7-SNAPSHOT-3) unstable; urgency=medium
+
+  * grid-router 1.7-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #78)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 26 Jun 2015 12:50:17 +0000
+
+yandex-grid-router (1.7-SNAPSHOT-2) unstable; urgency=medium
+
+  * grid-router 1.7-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #77)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 26 Jun 2015 11:04:01 +0000
+
+yandex-grid-router (1.7-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.7-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #76)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 25 Jun 2015 08:28:49 +0000
+
+yandex-grid-router (1.7) unstable; urgency=medium
+
+  * grid-router 1.7-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #75)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 24 Jun 2015 10:06:38 +0000
+
+yandex-grid-router (1.6) unstable; urgency=medium
+
+  * grid-router 1.6-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #74)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 22 Jun 2015 12:46:48 +0000
+
+yandex-grid-router (1.5-SNAPSHOT-4) unstable; urgency=medium
+
+  * grid-router 1.5-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #73)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 22 Jun 2015 11:44:59 +0000
+
+yandex-grid-router (1.5-SNAPSHOT-3) unstable; urgency=medium
+
+  * grid-router 1.5-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #72)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 19 Jun 2015 15:50:49 +0000
+
+yandex-grid-router (1.5-SNAPSHOT-2) unstable; urgency=medium
+
+  * grid-router 1.5-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #71)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 11 Jun 2015 15:20:48 +0000
+
+yandex-grid-router (1.5-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.5-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #70)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 09 Jun 2015 08:41:34 +0000
+
+yandex-grid-router (1.5) unstable; urgency=medium
+
+  * grid-router 1.5-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #68)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 08 Jun 2015 12:42:03 +0000
+
+yandex-grid-router (1.4-SNAPSHOT-3) unstable; urgency=medium
+
+  * grid-router 1.4-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #67)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 08 Jun 2015 10:41:54 +0000
+
+yandex-grid-router (1.4-SNAPSHOT-2) unstable; urgency=medium
+
+  * grid-router 1.4-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #66)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 08 Jun 2015 10:29:23 +0000
+
+yandex-grid-router (1.4-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.4-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #65)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 27 May 2015 11:32:16 +0000
+
+yandex-grid-router (1.4) unstable; urgency=medium
+
+  * grid-router 1.4-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #64)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 26 May 2015 12:30:47 +0000
+
+yandex-grid-router (1.3-SNAPSHOT-10) unstable; urgency=medium
+
+  * grid-router 1.3-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #63)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 25 May 2015 17:36:16 +0000
+
+yandex-grid-router (1.3-SNAPSHOT-9) unstable; urgency=medium
+
+  * grid-router 1.3-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #62)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 25 May 2015 17:24:46 +0000
+
+yandex-grid-router (1.3-SNAPSHOT-8) unstable; urgency=medium
+
+  * grid-router 1.3-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #61)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 25 May 2015 17:10:10 +0000
+
+yandex-grid-router (1.3-SNAPSHOT-7) unstable; urgency=medium
+
+  * grid-router 1.3-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #60)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 25 May 2015 15:13:36 +0000
+
+yandex-grid-router (1.3-SNAPSHOT-6) unstable; urgency=medium
+
+  * grid-router 1.3-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #59)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 25 May 2015 14:41:56 +0000
+
+yandex-grid-router (1.3-SNAPSHOT-5) unstable; urgency=medium
+
+  * grid-router 1.3-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #58)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 25 May 2015 14:32:06 +0000
+
+yandex-grid-router (1.3-SNAPSHOT-4) unstable; urgency=medium
+
+  * grid-router 1.3-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #57)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 25 May 2015 14:17:37 +0000
+
+yandex-grid-router (1.3-SNAPSHOT-3) unstable; urgency=medium
+
+  * grid-router 1.3-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #56)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 25 May 2015 13:49:11 +0000
+
+yandex-grid-router (1.3-SNAPSHOT-2) unstable; urgency=medium
+
+  * grid-router 1.3-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #55)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 25 May 2015 13:33:36 +0000
+
+yandex-grid-router (1.3-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.3-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #54)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 25 May 2015 13:23:46 +0000
+
+yandex-grid-router (1.3) unstable; urgency=medium
+
+  * grid-router 1.3-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #53)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 22 May 2015 16:50:30 +0000
+
+yandex-grid-router (1.2-SNAPSHOT-2) unstable; urgency=medium
+
+  * grid-router 1.2-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #52)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 22 May 2015 16:26:10 +0000
+
+yandex-grid-router (1.2-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.2-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #51)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 22 May 2015 16:12:20 +0000
+
+yandex-grid-router (1.2) unstable; urgency=medium
+
+  * grid-router 1.2-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #50)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 21 May 2015 15:51:09 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-16) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #49)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 21 May 2015 14:49:20 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-15) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #48)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 21 May 2015 14:06:50 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-14) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #47)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 21 May 2015 00:47:29 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-13) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #46)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 21 May 2015 00:37:39 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-12) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #45)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 21 May 2015 00:21:59 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-11) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #44)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 21 May 2015 00:12:10 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-10) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #43)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 21 May 2015 00:03:41 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-9) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #42)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 20 May 2015 23:35:10 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-8) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #41)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 20 May 2015 21:44:00 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-7) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #40)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 20 May 2015 21:31:40 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-6) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #39)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 20 May 2015 21:19:39 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-5) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #38)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 20 May 2015 20:28:20 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-4) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #37)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 20 May 2015 15:22:52 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-3) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #34)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 20 May 2015 13:59:40 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-2) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #33)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 14 May 2015 13:59:40 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #32)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 14 May 2015 13:47:30 +0000
+
+yandex-grid-router (1.1) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (release built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #31)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 14 May 2015 12:48:31 +0000
+
+yandex-grid-router (1.1-SNAPSHOT-1) unstable; urgency=medium
+
+  * grid-router 1.1-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #30)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 14 May 2015 12:05:50 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-29) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #29)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 14 May 2015 11:29:10 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-28) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #28)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 07 May 2015 15:40:49 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-27) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #27)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 05 May 2015 14:43:39 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-26) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #26)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 30 Apr 2015 14:57:49 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-25) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #25)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 30 Apr 2015 14:49:58 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-24) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #24)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 30 Apr 2015 14:01:49 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-23) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #23)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 30 Apr 2015 13:55:48 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-22) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #19)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 28 Apr 2015 09:12:19 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-21) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #18)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 28 Apr 2015 08:42:41 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-20) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #17)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 27 Apr 2015 16:42:31 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-19) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #16)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 27 Apr 2015 10:37:40 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-18) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #15)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 24 Apr 2015 11:14:00 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-17) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #14)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 24 Apr 2015 10:50:30 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-16) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #13)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Fri, 24 Apr 2015 10:43:21 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-15) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #12)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 23 Apr 2015 14:44:11 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-14) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #11)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Thu, 23 Apr 2015 07:09:31 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-13) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #10)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 21 Apr 2015 16:06:21 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-12) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #9)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 20 Apr 2015 11:25:40 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-11) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #8)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Mon, 20 Apr 2015 11:24:00 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-10) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #7)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 15 Apr 2015 15:39:06 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-9) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #6)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 15 Apr 2015 14:15:50 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-8) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #5)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Wed, 15 Apr 2015 13:57:10 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-7) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #4)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 14 Apr 2015 16:14:41 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-6) unstable; urgency=medium
+
+  * grid-router 1.0-SNAPSHOT (snapshot built with Jenkins job grid-
+    router-deb(http://jenkins.qatools.yandex-team.ru/job/grid-router-
+    deb/), build #3)
+
+ -- Robot QAFW <robot-qafw@yandex-team.ru>  Tue, 14 Apr 2015 16:09:49 +0000
+
+yandex-grid-router (1.0-SNAPSHOT-5) unstable; urgency=low
+
+  * Configuration loading
+
+ -- Alexander Andryashin <aandryashin@yandex-team.ru>  Fri, 10 Apr 2015 18:55:52 +0300
+
+yandex-grid-router (1.0-SNAPSHOT-4) unstable; urgency=low
+
+  * Upstart timeouts 
+
+ -- Alexander Andryashin <aandryashin@yandex-team.ru>  Thu, 09 Apr 2015 23:04:47 +0300
+
+yandex-grid-router (1.0-SNAPSHOT-3) unstable; urgency=low
+
+  * Fixed classpath issues
+
+ -- Alexander Andryashin <aandryashin@yandex-team.ru>  Thu, 09 Apr 2015 22:45:10 +0300
+
+yandex-grid-router (1.0-SNAPSHOT-2) unstable; urgency=low
+
+  * Additional logging
+
+ -- Alexander Andryashin <aandryashin@yandex-team.ru>  Thu, 09 Apr 2015 19:43:12 +0300
+
+yandex-grid-router (1.0-SNAPSHOT-1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Alexander Andryashin <aandryashin@yandex-team.ru>  Thu, 09 Apr 2015 17:49:35 +0300

@@ -1,0 +1,5 @@
+target/lib usr/share/grid-router
+target/grid-router-deb.war usr/share/grid-router
+target/jetty-runner.jar usr/share/grid-router
+conf/application.properties etc/grid-router
+conf/jetty.xml etc/grid-router
